@@ -18,7 +18,8 @@ DELETE: Declaring a user by their ID (checking if the user still has an issue bo
 
 ## /user/subscription-details/{id}
 
-GET: Get a user subscription detail by their ID:
+GET: Get a user subscription detail by their ID
+    
     >> Data of subscription
     >> Valid till?
     >> Fine if any?
@@ -43,6 +44,7 @@ GET: Get all the issued books
 GET: Get all issued books with their fine amount
 
 ## Subscription Types
+
     >> Basic (3 months)
     >> Standard (6 months)
     >> Premium (12 months)
@@ -53,6 +55,7 @@ GET: Get all issued books with their fine amount
     >> If a user misses both renewal & subscription, then the collected amount should be $200
 
 ## Commands:
+
 npm init npm i express npm i nodemon --save-dev
 
 npm run dev --> to start te appln
