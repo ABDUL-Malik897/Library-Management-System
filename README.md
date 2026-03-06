@@ -18,7 +18,7 @@ DELETE: Declaring a user by their ID (checking if the user still has an issue bo
 
 ## /user/subscription-details/{id}
 
-GET: Get a user subscription detail by their ID
+GET: Get a user subscription detail by their ID:
     >> Data of subscription
     >> Valid till?
     >> Fine if any?
