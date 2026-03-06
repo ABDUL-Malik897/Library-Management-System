@@ -7,12 +7,15 @@
 ## /users
 
 GET: Get all the list of users in the system
+
 POST: Create/register a new user
 
 ## /users/{id}
 
 GET: Get a user by their ID
+
 POST: Updating a user by their ID 
+
 DELETE: Declaring a user by their ID (checking if the user still has an issue book) && (is there any fine/penalty to be connected)
 
 
@@ -28,19 +31,24 @@ GET: Get a user subscription detail by their ID
 ## /books
 
 GET: Get all the book in the system
+
 POST: Add a new book to the system 
 
 
 ## /books/{id}
 
 GET: Get a book by its ID
+
 POST: Update the book by its ID
+
 DELETE: Delete a book by its ID
+
 
 ## /books/issued
 GET: Get all the issued books
 
 ## /books/issued/withFine
+
 GET: Get all issued books with their fine amount
 
 ## Subscription Types
