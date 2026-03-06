@@ -73,6 +73,4 @@ npm run dev --> to start te appln
 To restore node_modules and package-lock.json --> npm i/npm install
 
 
-npm i mongoose npm install mongodb
-
 npm i dotenv
