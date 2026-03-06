@@ -76,9 +76,3 @@ To restore node_modules and package-lock.json --> npm i/npm install
 npm i mongoose npm install mongodb
 
 npm i dotenv
-
-## MVC Architecture
->> M: Model (Structure of our MongoDb)
->> V: View (Frontend)
->> C: Controllers (Brain/Logic of a route)
-## DTO (Dtat Transfer Object)
