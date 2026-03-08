@@ -1,6 +1,7 @@
 # Library-Management-System
 
-    This is a librar managemnet system API Backend for the management of users and the books 
+
+This is a library managemnet system API Backend for the management of users and the books 
 
 # Routes and the Endpoints
 
