@@ -71,3 +71,22 @@ npm init npm i express npm i nodemon --save-dev
 npm run dev --> to start te appln
 
 To restore node_modules and package-lock.json --> npm i/npm install
+
+npm i mongoose
+
+npm install mongodb
+
+mongodb+srv://ABDUL_Malik897:<db_password>@cluster0.gncimxl.mongodb.net/?appName=Cluster0
+
+mongodb+srv://ABDUL_Malik897:jmMrXVdUpHUtXFN2@cluster0.gncimxl.mongodb.net/?appName=Cluster0
+
+npm i dotenv
+
+
+## MVC Architecture
+    >> M: Model (Sturture of our MongoDB)
+    >> V: View (Forntend)
+    >> C: Controller (Brain/Logic Of a route)
+
+
+## DTO (Data Transfer Object)
